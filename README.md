@@ -4,9 +4,9 @@ URL : https://amritesh-ts-microservice.herokuapp.com/
 
 Example usage:
 
-https://saintpeter-ts-micro.herokuapp.com/December%2015,%202015
+https://amritesh-ts-microservice.herokuapp.com/December%2015,%202015
 
-https://saintpeter-ts-micro.herokuapp.com/1450137600
+https://amritesh-ts-microservice.herokuapp.com/1450137600
 
 
 Example output:
